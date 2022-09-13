@@ -2,6 +2,7 @@
 Firmware and data analysis software written for Team X's payload system: a payload launched into the stratosphere on a weather balloon. Completed as part of ENGR100-950 at the Univeristy of Michigan. 
 
 
-Check out this brief project overview:
+Check out this brief project overview by clicking on the video thumbnail:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DhZ-bQsRDM8/0.jpg)](https://www.youtube.com/watch?v=DhZ-bQsRDM8)
+
